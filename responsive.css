@@ -1,0 +1,55 @@
+@media all and (max-width: 1000px) {
+    .hero{
+        width: 100%;
+    }
+}
+@media all and (max-width: 670px) {
+    .navbar h1{
+        font-family: poppins ;
+        font-size: 64px;
+        padding: 5px 100px;
+        color: #4A2FB8;
+    }
+    .navbar h1{
+        width: 50%;
+        padding-left: 20px;
+        font-size: 64px;
+    }
+    .navbar ul li {
+        display: none;
+      }
+    .icon{
+        display: block;
+        padding: 5px;
+    }
+    .icon img{
+        width: 50px;
+        height: 50px;
+        padding-top: 10px;
+        padding-right: 5px;
+    }
+    .hero{
+        width: 100%;
+        
+    }
+    .herokiri{
+        margin-top: -50px;
+        text-align: center;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .herokiri a{
+        
+        padding:20px 100px;
+    
+    }
+    .herokiri p{
+        font-size: 35px;    
+        }
+    .herokanan{
+        margin-top: -100px;
+        text-align: center;
+        width: 100%;
+
+    }
+}
